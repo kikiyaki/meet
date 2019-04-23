@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5195e1b-cc78-478d-beab-cae3aa295d56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meet5.5.45/meet_new" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/laravel.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/navbar_guest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/navbar_guest.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="a5195e1b-cc78-478d-beab-cae3aa295d56" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/navbar_guest.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="221">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -74,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/navbar_admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -93,11 +86,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="artisan ide-helper:generate " />
-      <command text="artisan serve" />
-      <command text="artisan make:controller Main" />
-      <command text="artisan make:controller MainController" />
-      <command text="artisan serve" />
       <command text="aartisan serve" />
       <command text="artisan serve" />
       <command text="git int" />
@@ -117,6 +105,11 @@
       <command text="git commit -m 'first commit'" />
       <command text="git remote add origin https://github.com/kikiyaki/meet.git" />
       <command text="git remote -v" />
+      <command text="git push origin master" />
+      <command text="git commit -m &quot;change navbar_guest src logo&quot;" />
+      <command text="git add ." />
+      <command text="git commit -m &quot;change navbar_guest src logo&quot;" />
+      <command text="git remote add origin https://github.com/kikiyaki/meet.git" />
       <command text="git push origin master" />
     </commandsHistory>
   </component>
@@ -386,12 +379,12 @@
       <workItem from="1554674359117" duration="2611000" />
       <workItem from="1554706761928" duration="36920000" />
       <workItem from="1555563730345" duration="9658000" />
-      <workItem from="1556053195916" duration="359000" />
+      <workItem from="1556053195916" duration="1250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149732000" />
+    <option name="totallyTimeSpent" value="150623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,6 +397,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24205749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -758,15 +752,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/navbar_admin.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/navbar_guest.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="221">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
