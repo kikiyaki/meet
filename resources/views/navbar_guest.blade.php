@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light nav-color">
     <a class="navbar-brand" href="/">
-        <img src="logo.png" width="30" height="30"
+        <img src="{{ asset('logo.png') }}" width="30" height="30"
              class="d-inline-block align-top" alt="">
         JoinMeet
     </a>
